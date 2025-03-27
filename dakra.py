@@ -29,7 +29,8 @@ class logging:
             
             return original_result
         return wrapper
-    
+    df = pd.read_csv("logs.csv")     
+df     
     
             
 
